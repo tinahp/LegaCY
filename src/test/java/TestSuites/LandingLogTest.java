@@ -254,7 +254,7 @@ public class LandingLogTest extends baseClassTest {
         walletPage.Bwallet();
         Thread.sleep(3000);
     }
-}
+            }*/
 
 
 
